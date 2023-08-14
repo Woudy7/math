@@ -1,2 +1,2 @@
 # math
-Goofy site to get unneeded formulas for numbers
+Goofy site to get unnecessarily complicated equations for numbers
